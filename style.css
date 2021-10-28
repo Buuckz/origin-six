@@ -384,13 +384,13 @@ nav {
   margin-bottom: 1.5rem;
   font-size: 5rem;
   color: var(--base-color);
+
   transition: .3s;
   display: inline-block;
-
 }
 
 .card i:hover {
-  transform: translateY(-12 px);;
+  transform: translateY(-15px);
 }
 
 .card .title {
